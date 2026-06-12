@@ -1,16 +1,32 @@
-## Hi there 👋
+# Привет! Я Егор Алипбаев 🚀
 
-<!--
-**null2de/null2de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer** со специализацией на проектировании DWH и построении отказоустойчивых ETL/ELT-пайплайнов. Объединяю сильные хард-скиллы с системным подходом и глубоким пониманием бизнес-метрик, полученным за 10+ лет управления процессами в ритейле.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Технологический стек
+
+* **Languages & СУБД:** Python • SQL • PostgreSQL • Vertica • Redis • MongoDB
+* **Data Engineering:** Apache Airflow • PySpark • Apache Kafka • Hadoop • S3
+* **Infra & DevOps:** Docker • Kubernetes • Git
+* **Методологии:** Инмон • Кимбалл • Data Vault
+
+---
+
+### 📁 Реализованные инженерные решения
+
+* **DWH Архитектура:** Разработка масштабируемого мультивалютного хранилища данных на Vertica и PostgreSQL.
+* **Оптимизация пайплайнов:** Внедрение инкрементальной загрузки данных с watermarking из S3 вместо полных батчей.
+* **Big Data & Стриминг:** Написание отказоустойчивых PySpark-скриптов для аналитики логов; интеграция с Kafka.
+* **Оркестрация:** Полная контейнеризация DE-пайплайнов в Docker и менеджмент подов в кластере Kubernetes.
+
+---
+
+### 📬 Контакты и статус
+
+* **Статус:** Открыт к предложениям на позицию **Data Engineer** (Удаленка / Гибрид / Москва)
+* **Telegram:** [@null2de](https://t.me/null2de)
+* **Email:** [eg123@yandex.ru](mailto:eg123@yandex.ru)
+
+---
+*«Пишу чистый код и строю пайплайны, которые не падают в 3 часа ночи»*
